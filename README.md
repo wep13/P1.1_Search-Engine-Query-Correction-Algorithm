@@ -70,7 +70,7 @@ The algorithm compares each word with the dictionary and, when possible, suggest
 Run the Python script:
 
 ```bash
-python "Un algoritmo di correzione per un motore di ricerca (1).py"
+python "Un algoritmo di correzione per un motore di ricerca.py"
 ```
 
 The queries defined in `query_list` are automatically processed and the results are printed to the terminal.
@@ -79,7 +79,7 @@ The queries defined in `query_list` are automatically processed and the results 
 
 ```text
 .
-├── Un algoritmo di correzione per un motore di ricerca (1).py
+├── Un algoritmo di correzione per un motore di ricerca.py
 └── README.md
 ```
 
